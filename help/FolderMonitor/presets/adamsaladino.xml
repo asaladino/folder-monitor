@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HelpSetMaker>
+<Engine>
+<Value Key="autosave.enabled">true</Value>
+<Value Key="expensivelabelcheck">false</Value>
+<Value Key="ilsplit.lastlocation">35</Value>
+<Value Key="ilsplit.location">108</Value>
+<Value Key="showanchors">false</Value>
+<Value Key="showlabels">false</Value>
+<Value Key="split.location">194</Value>
+<Value Key="stmleditor.autoupdate">true</Value>
+<Value Key="stmleditor.showhtml">true</Value>
+<Value Key="vsplit.lastlocation">432</Value>
+<Value Key="vsplit.location">495</Value>
+</Engine>
+<EditorData Filename="b8c7e88b">40,0</EditorData>
+<EditorData Filename="90b9748a">31,0</EditorData>
+<EditorData Filename="c900416a">25,0</EditorData>
+</HelpSetMaker>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<HelpSetMaker>
+<DocumentProperties>
+<Value Key="eclipse.makeintro">false</Value>
+<Value Key="eclipse.quotation">none</Value>
+<Value Key="general.locale">en_US</Value>
+<Value Key="general.uselabelforfilename">true</Value>
+<Value Key="helpset.createjarfile">true</Value>
+<Value Key="helpset.fulltextsearch">true</Value>
+<Value Key="helpset.jarfilename">help</Value>
+<Value Key="helpset.mainlocalesuffix">false</Value>
+<Value Key="helpset.navigation.bottom">line</Value>
+<Value Key="helpset.navigation.top">none</Value>
+<Value Key="helpset.quotation">none</Value>
+<Value Key="helpset.scaleimages">false</Value>
+<Value Key="helpset.titletag">false</Value>
+<Value Key="html4.cssfortree">false</Value>
+<Value Key="html4.navigation.bottom">none</Value>
+<Value Key="html4.navigation.top">none</Value>
+<Value Key="html4.quotation">none</Value>
+<Value Key="html4.scaleimages">false</Value>
+<Value Key="html4.titletag">false</Value>
+<Value Key="latex.firstsection.ownpage">false</Value>
+<Value Key="latex.firstsection.type">abstract</Value>
+<Value Key="latex.fontsize">10pt</Value>
+<Value Key="latex.fontstyle">cm</Value>
+<Value Key="latex.image.frame">false</Value>
+<Value Key="latex.ownpage">false</Value>
+<Value Key="latex.papertype">a4paper</Value>
+<Value Key="latex.paragraph">inset</Value>
+<Value Key="latex.quotation">none</Value>
+<Value Key="latex.references">empty</Value>
+<Value Key="latex.scaleimages">false</Value>
+<Value Key="latex.sectioning.deepest">section</Value>
+<Value Key="latex.sectioning.uppermost">part</Value>
+<Value Key="latex.sides">oneside</Value>
+<Value Key="latex.usehyperref">false</Value>
+<Value Key="preview.unscaledimages">false</Value>
+<Value Key="project.charset">ISO-8859-1</Value>
+<Value Key="stml.charset">UTF-8</Value>
+</DocumentProperties>
+<DocumentTree>
+<DocumentNode>
+<Filename>b8c7e88b</Filename>
+<Title>Folder Monitor 0.8.1</Title>
+<Label>intro</Label>
+<FullTextSearch>true</FullTextSearch>
+<DocumentNode>
+<Filename>90b9748a</Filename>
+<Title>Features</Title>
+<Label>features</Label>
+<FullTextSearch>true</FullTextSearch>
+</DocumentNode>
+<DocumentNode>
+<Filename>c900416a</Filename>
+<Title>Usage</Title>
+<Label>usage</Label>
+<FullTextSearch>true</FullTextSearch>
+</DocumentNode>
+</DocumentNode>
+<Label Name="features">90b9748a</Label>
+<Label Name="intro">b8c7e88b</Label>
+<Label Name="usage">c900416a</Label>
+</DocumentTree>
+<ImageLibrary>
+<ThumbnailSize>100</ThumbnailSize>
+</ImageLibrary>
+</HelpSetMaker>
