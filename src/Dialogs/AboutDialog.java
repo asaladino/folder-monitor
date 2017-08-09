@@ -49,7 +49,7 @@ public class AboutDialog extends javax.swing.JDialog {
         });
 
         jLabel1.setFont(new java.awt.Font("Lucida Grande", 1, 13));
-        jLabel1.setText("FolderMonitor v0.9.1");
+        jLabel1.setText("FolderMonitor v1.0");
 
         jLabel2.setText("by Adam Saladino");
 
